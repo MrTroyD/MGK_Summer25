@@ -1,0 +1,4 @@
+repository "GitDemo/GitDemo@1083394@cloud"
+  path "/"
+    br "/main"
+    co "/main"
